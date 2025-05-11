@@ -54,5 +54,19 @@
       "https://x.com/search?q=$RATIE",
       "https://pump.fun/coin/3GSXm3q8eNwGWPjhk22FPzB6LoWkY8XAetZ7CLdupump"
     ]
+  },
+  {
+    "date": "2025-05-11 05:11:49+00:00",
+    "text": "$ALS (PumpFun➜PumpSwap) Scanning (Reminder 1)\nghN3Y1cji1x1dtqKn5ma8ahPXCfda99hJX4ioJVpump\nALS Cyborg\n\n[J485Y] Swap 6.88 SOL for 6133431.35 ALS\n\n💎 Token\n| Market Cap: $198.56K\n| Created at: 6m 31s ago\n| Migrated\n\n💸 9 smart money have bought\n| Still Holding: 5\n| Greater Than 2 SOL: 5\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 112\n| 5min Trades: 572 Buys, 646 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
+    "links": [
+      "https://solscan.io/tx/PQvcoThawJk9p91RaKdXCJaLhSm6gU9WH6gnVNNU728dQguz6h5Fgo746YjQUFDh4FeE8xdA46x8o3QNMvHM2zs",
+      "https://x.com/search?q=ghN3Y1cji1x1dtqKn5ma8ahPXCfda99hJX4ioJVpump",
+      "https://dexscreener.com/solana/ghN3Y1cji1x1dtqKn5ma8ahPXCfda99hJX4ioJVpump",
+      "https://alscyborg.com/",
+      "https://pump.fun/coin/ghN3Y1cji1x1dtqKn5ma8ahPXCfda99hJX4ioJVpump",
+      "https://solscan.io/token/ghN3Y1cji1x1dtqKn5ma8ahPXCfda99hJX4ioJVpump",
+      "https://x.com/search?q=$ALS",
+      "https://x.com/alscyborg"
+    ]
   }
 ]
