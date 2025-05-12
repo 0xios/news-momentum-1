@@ -1,16 +1,5 @@
 [
   {
-    "date": "2025-05-12 21:59:18+00:00",
-    "text": "$PRTEST (Meteora) Scanning (Reminder 1)\nGcAxBkBgNuncxdNdJ6tsZaqNY5kHGw4nxfkEXTdwT6fJ\nprofiler-test-3\n\n[5fm5p] Swap 5.70 SOL for 5891320.35 PRTEST\n\n💎 Token\n| Market Cap: $167.22K\n| Created at: 6m 59s ago\n| Launch on MET\n\n💸 7 smart money have bought\n| Still Holding: 3\n| Greater Than 2 SOL: 4\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 177\n| 5min Trades: 129 Buys, 461 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ DEXS",
-    "links": [
-      "https://dexscreener.com/solana/GcAxBkBgNuncxdNdJ6tsZaqNY5kHGw4nxfkEXTdwT6fJ",
-      "https://solscan.io/token/GcAxBkBgNuncxdNdJ6tsZaqNY5kHGw4nxfkEXTdwT6fJ",
-      "https://x.com/search?q=GcAxBkBgNuncxdNdJ6tsZaqNY5kHGw4nxfkEXTdwT6fJ",
-      "https://x.com/search?q=$PRTEST",
-      "https://solscan.io/tx/5ATATYsYrQ9nULXCrqveDW6QYaCnuZCFiLpXJrTeZwrnN6JYeC1CqEUsBNgsup7bSSjUC84r5wvSY13tNfPsfngC"
-    ]
-  },
-  {
     "date": "2025-05-12 22:00:30+00:00",
     "text": "$gas (PumpFun➜PumpSwap) Scanning (Reminder 1)\nGYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump\ngascoin\n\n[6nhsk] Swap 1.98 SOL for 2470392.96 gas\n\n💎 Token\n| Market Cap: $138.15K\n| Created at: 2h 27m 14s ago\n| Migrated\n\n💸 11 smart money have bought\n| Still Holding: 2\n| Greater Than 2 SOL: 4\n\n📈 Fomo\n| Total Calls: 3 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 435\n| 5min Trades: 200 Buys, 157 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
     "links": [
@@ -44,6 +33,19 @@
       "https://x.com/search?q=4CH3eq6ZWSRgn7727y6uxANHFgUxVp28Zrf8DAs6pump",
       "https://solscan.io/tx/2MynvpeUG7rvWJPboF2hyoyEPVpc176mAqTuEe2GzyhGvtFqzHZQPjiqzSMzCg4FeEyQfGnN3ZL3r5wPwcHVj8uw_0",
       "https://dexscreener.com/solana/4CH3eq6ZWSRgn7727y6uxANHFgUxVp28Zrf8DAs6pump"
+    ]
+  },
+  {
+    "date": "2025-05-12 22:18:18+00:00",
+    "text": "$slomoify (PumpFun) Scanning (Reminder 3)\nHrRLoi4hQfx78SzB4Q4tbxEzvJhMyBS6dqNZ2pBfpump\nslomofication\n\n[6LCha] Swap 2.94 SOL for 30509875.73 slomoify\n\n💎 Token\n| Market Cap: $17.58K\n| Created at: 2m 13s ago\n| Progress: 64%\n| ■■■■■■■■■■■■□□□□□□□□\n\n💸 9 smart money have bought\n| Still Holding: 2\n| Greater Than 2 SOL: 7\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 233\n| 5min Trades: 715 Buys, 498 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
+    "links": [
+      "https://solscan.io/tx/5zn1uuWtxooE7x9NwC9p3hsS4EiXuKw4gaY4M1bCWvJRe9btvr9aRNnj1bQUghvt9aGcSdLuyc5o6NhPsMAiZ8uJ_0",
+      "https://x.com/search?q=HrRLoi4hQfx78SzB4Q4tbxEzvJhMyBS6dqNZ2pBfpump",
+      "https://pump.fun/coin/HrRLoi4hQfx78SzB4Q4tbxEzvJhMyBS6dqNZ2pBfpump",
+      "https://x.com/search?q=$slomoify",
+      "https://x.com/Dexerto/status/1922052991340675545",
+      "https://solscan.io/token/HrRLoi4hQfx78SzB4Q4tbxEzvJhMyBS6dqNZ2pBfpump",
+      "https://dexscreener.com/solana/HrRLoi4hQfx78SzB4Q4tbxEzvJhMyBS6dqNZ2pBfpump"
     ]
   }
 ]
