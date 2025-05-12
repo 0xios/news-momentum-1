@@ -1,18 +1,5 @@
 [
   {
-    "date": "2025-05-12 16:50:18+00:00",
-    "text": "$TOAST (LaunchLab) Scanning (Reminder 2)\n8PpU2ueBmq4UkVRfHTfVFLsr9dQEjvYHRGNXigmcbonk\nToast Coin\n\n[76sHt] Swap 3.00 SOL for 12672892.10 TOAST\n\n💎 Token\n| Market Cap: $42.51K\n| Created at: 47s ago\n| Progress: 88%\n| ■■■■■■■■■■■■■■■■■□□□\n\n💸 6 smart money have bought\n| Still Holding: 1\n| Greater Than 2 SOL: 2\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 152\n| 5min Trades: 369 Buys, 222 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ LAUNCHLAB | DEXS",
-    "links": [
-      "https://solscan.io/token/8PpU2ueBmq4UkVRfHTfVFLsr9dQEjvYHRGNXigmcbonk",
-      "https://dexscreener.com/solana/8PpU2ueBmq4UkVRfHTfVFLsr9dQEjvYHRGNXigmcbonk",
-      "https://raydium.io/launchpad/token/?mint=8PpU2ueBmq4UkVRfHTfVFLsr9dQEjvYHRGNXigmcbonk",
-      "https://x.com/th3unipcs/status/1921970849881464982",
-      "https://x.com/search?q=$TOAST",
-      "https://x.com/search?q=8PpU2ueBmq4UkVRfHTfVFLsr9dQEjvYHRGNXigmcbonk",
-      "https://solscan.io/tx/3NDMK95DqAVWhdDemf4zysssCuwzkUvwnYEcwN8yhB4jmeSsaJEsnYHdsuNDqEkZKrL7P8p6674ZMkTWWVUvCX7H"
-    ]
-  },
-  {
     "date": "2025-05-12 16:51:45+00:00",
     "text": "$quix (PumpFun➜PumpSwap) Scanning (Reminder 1)\n4AnXmXRCiPEYyQZ7cTpn15F37NSfWqwVGMEWkULnpump\nQuixGPT\n\n[E69Fv] Swap 4.95 SOL for 11969787.76 quix\n\n💎 Token\n| Market Cap: $72.77K\n| Created at: 22m 9s ago\n| Migrated\n\n💸 7 smart money have bought\n| Still Holding: 2\n| Greater Than 2 SOL: 4\n\n📈 Fomo\n| Total Calls: 4 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 221\n| 5min Trades: 379 Buys, 209 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
     "links": [
@@ -64,6 +51,18 @@
       "https://x.com/search?q=EvMqgwowGm1oM1cHovWaH94pjKrG3mrjDXMbZcQxpump",
       "https://dexscreener.com/solana/EvMqgwowGm1oM1cHovWaH94pjKrG3mrjDXMbZcQxpump",
       "https://pump.fun/coin/EvMqgwowGm1oM1cHovWaH94pjKrG3mrjDXMbZcQxpump"
+    ]
+  },
+  {
+    "date": "2025-05-12 17:04:19+00:00",
+    "text": "$TP (PumpFun) Scanning (Reminder 2)\nNvncR5EaZzLUWgXxbtYz98XfbcbwEPecqUYSjBewhHf\nTRUMP POINTS\n\n[BCagc] Swap 4.97 SOL for 67496002.06 TP\n\n💎 Token\n| Market Cap: $12.79K\n| Created at: 21s ago\n| Progress: 51%\n| ■■■■■■■■■■□□□□□□□□□□\n\n💸 14 smart money have bought\n| Still Holding: 5\n| Greater Than 2 SOL: 13\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 108\n| 5min Trades: 262 Buys, 188 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
+    "links": [
+      "https://solscan.io/tx/3f5XqaS8UpmUeYQEqU6B3iGNUafhhvsWug1FJEKeY1UEzPsUxY3B9ktp6DmzVikCchBbn7gQ75snwtxqeUYoNePG_0",
+      "https://solscan.io/token/NvncR5EaZzLUWgXxbtYz98XfbcbwEPecqUYSjBewhHf",
+      "https://dexscreener.com/solana/NvncR5EaZzLUWgXxbtYz98XfbcbwEPecqUYSjBewhHf",
+      "https://x.com/search?q=NvncR5EaZzLUWgXxbtYz98XfbcbwEPecqUYSjBewhHf",
+      "https://pump.fun/coin/NvncR5EaZzLUWgXxbtYz98XfbcbwEPecqUYSjBewhHf",
+      "https://x.com/search?q=$TP"
     ]
   }
 ]
