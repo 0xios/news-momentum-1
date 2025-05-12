@@ -51,5 +51,18 @@
       "https://x.com/search?q=$PRTEST",
       "https://solscan.io/tx/5ATATYsYrQ9nULXCrqveDW6QYaCnuZCFiLpXJrTeZwrnN6JYeC1CqEUsBNgsup7bSSjUC84r5wvSY13tNfPsfngC"
     ]
+  },
+  {
+    "date": "2025-05-12 22:00:30+00:00",
+    "text": "$gas (PumpFun➜PumpSwap) Scanning (Reminder 1)\nGYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump\ngascoin\n\n[6nhsk] Swap 1.98 SOL for 2470392.96 gas\n\n💎 Token\n| Market Cap: $138.15K\n| Created at: 2h 27m 14s ago\n| Migrated\n\n💸 11 smart money have bought\n| Still Holding: 2\n| Greater Than 2 SOL: 4\n\n📈 Fomo\n| Total Calls: 3 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 435\n| 5min Trades: 200 Buys, 157 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
+    "links": [
+      "https://x.com/search?q=$gas",
+      "https://pump.fun/coin/GYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump",
+      "https://solscan.io/tx/5DewHVR1vDSmrXrXWp5sYEGSBDFGKtcmt2GqsiV9gEEaRvyCoGvh1E2kFcNcYjigqrPTKVuXuMsHWNezCcpCgHsA",
+      "https://dexscreener.com/solana/GYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump",
+      "https://solscan.io/token/GYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump",
+      "https://x.com/search?q=GYtgRXfqw8Xq8ytHcvfcZfvkd5KVNKq3HFRSNcDFpump",
+      "https://twitter.com/i/communities/1921991584796627406"
+    ]
   }
 ]
