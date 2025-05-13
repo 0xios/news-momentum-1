@@ -1,16 +1,5 @@
 [
   {
-    "date": "2025-05-13 04:52:33+00:00",
-    "text": "$REPLY (Meteora) Scanning (Reminder 3)\nAj8sX5L28cqJsyFgjxNj9dn9uS8UojekAdpbShVTjmC1\nREPLYGUY\n\n[3pZ59] Swap 9.86 SOL for 35274926.45 REPLY\n\n💎 Token\n| Market Cap: $47.34K\n| Created at: 1m 43s ago\n| Launch on MET\n\n💸 10 smart money have bought\n| Still Holding: 3\n| Greater Than 2 SOL: 6\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 158\n| 5min Trades: 579 Buys, 1184 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ DEXS",
-    "links": [
-      "https://x.com/search?q=$REPLY",
-      "https://x.com/search?q=Aj8sX5L28cqJsyFgjxNj9dn9uS8UojekAdpbShVTjmC1",
-      "https://solscan.io/token/Aj8sX5L28cqJsyFgjxNj9dn9uS8UojekAdpbShVTjmC1",
-      "https://solscan.io/tx/TxKSuW92XpDr5gg7qaiPt6WPgRjriq7fCWAN36Bbirbux2wodT2AS7ndP7uTS4ZM138cxvcV81HGbGYQK93r2vK",
-      "https://dexscreener.com/solana/Aj8sX5L28cqJsyFgjxNj9dn9uS8UojekAdpbShVTjmC1"
-    ]
-  },
-  {
     "date": "2025-05-13 04:53:53+00:00",
     "text": "$USD (PumpFun➜PumpSwap) Scanning (Reminder 2)\nNUkyH9qQhrb45ea1d1h44f6dJG2fJw3j7xVsE4Ypump\nuseless sending dog\n\n[CyaE1] Swap 4.95 SOL for 10443074.22 USD\n\n💎 Token\n| Market Cap: $80.32K\n| Created at: 57m 1s ago\n| Migrated\n\n💸 7 smart money have bought\n| Still Holding: 5\n| Greater Than 2 SOL: 4\n\n📈 Fomo\n| Total Calls: 6 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 407\n| 5min Trades: 816 Buys, 477 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
     "links": [
@@ -58,6 +47,19 @@
       "https://solscan.io/tx/TPJyjoGBDF6rjfKCFsUrN6igBJcYWjjodjqxDaonfTWUmWWknYPFZtoCjNQ4aemXoxwihM4p8B7pdMoLEi2suBo",
       "https://x.com/search?q=51wPt2YfkoXBATCkuR2Di3tBHUdf1UwNHoKCmKAcpump",
       "https://solscan.io/token/51wPt2YfkoXBATCkuR2Di3tBHUdf1UwNHoKCmKAcpump"
+    ]
+  },
+  {
+    "date": "2025-05-13 05:10:20+00:00",
+    "text": "$ICT (PumpFun) Scanning (Reminder 1)\nHHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump\nINTERNET CULTURE TOKENS\n\n[34ZEH] Swap 0.98 SOL for 13652719.17 ICT\n\n💎 Token\n| Market Cap: $12.46K\n| Created at: 5m 30s ago\n| Progress: 51%\n| ■■■■■■■■■■□□□□□□□□□□\n\n💸 8 smart money have bought\n| Still Holding: 0\n| Greater Than 2 SOL: 2\n\n📈 Fomo\n| Total Calls: 0 Calls\n| Dexscreener paid: ✗\n| Bot Buyer: 115\n| 5min Trades: 231 Buys, 221 Sells\n\n🔗 X | TG | WEB | X Search $ | X Search CA\n└ PUMP | DEXS",
+    "links": [
+      "https://dexscreener.com/solana/HHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump",
+      "https://solscan.io/token/HHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump",
+      "https://x.com/search?q=HHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump",
+      "https://solscan.io/tx/2mk9X6sUZxLQkqbMrjYdBkGgN3q8EwQkyDvcvhawgJXZcvPANgYcPntsPTZZ29hndvowTAg9v9x9yqy2UrLBGzsP_0",
+      "https://pump.fun/coin/HHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump",
+      "https://x.com/ictokens",
+      "https://x.com/search?q=$ICT"
     ]
   }
 ]
